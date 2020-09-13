@@ -90,7 +90,9 @@ export const TitleAndMethod = styled.div`
   span {
     font-size: 1.2rem;  
     transform: rotateZ(-90deg);
+    max-width: 140px;
     margin: 0;
+    text-align: center;
   }
 
   span + span {
