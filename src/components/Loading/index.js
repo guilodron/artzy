@@ -7,8 +7,8 @@ const Loading = () => {
   return (
     <Container 
       initial={{left: 0}}
-      animate={{y: '-100vh', opacity: 0, height: 0}}
-      transition={{duration: 2, delay: 3}}
+      animate={{y: '-100vh', height: 0}}
+      transition={{duration: 1.5, delay: 3}}
     >
       <motion.svg viewBox="0 0 194 83" fill="none" xmlns="http://www.w3.org/2000/svg">
         <motion.path 
