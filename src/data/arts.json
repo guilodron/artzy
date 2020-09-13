@@ -1,0 +1,66 @@
+[
+  {
+    "key": 1,
+    "title": "Saint Jerome in Meditation",
+    "artist": "Caravaggio",
+    "method": "Oil Painting",
+    "date": "1605",
+    "file": "1.jpg"
+  },
+  {
+    "key": 2,
+    "title": "Meisje met de parel",
+    "artist": "Johannes Vermeer",
+    "method": "Oil Painting",
+    "date": "1665",
+    "file": "2.jpg"
+  },
+  {
+    "key": 3,
+    "title": "Self portrait",
+    "artist": "Antoon van Dyck",
+    "method": "Oil Painting",
+    "date": "1613",
+    "file": "3.jpg"
+  },
+  {
+    "key": 4,
+    "title": "Anatomy Lesson",
+    "artist": "Rembrandt",
+    "method": "Oil Painting",
+    "date": "1632",
+    "file": "4.jpg"
+  },
+  {
+    "key": 5,
+    "title": "Prometheus Bound",
+    "artist": "Peter Paul Rubens",
+    "method": "Oil Painting",
+    "date": "1612",
+    "file": "5.jpg"
+  },
+  {
+    "key": 6,
+    "title": "Portrait of Lady-in-Waiting",
+    "artist": "Peter Paul Rubens",
+    "method": "Oil Painting",
+    "date": "1620",
+    "file": "6.jpg"
+  },
+  {
+    "key": 7,
+    "title": "Mary Magdalene as Melancholy",
+    "artist": "Artemisia Gentileschi",
+    "method": "Oil Painting",
+    "date": "1625",
+    "file": "7.jpg"
+  },
+  {
+    "key": 8,
+    "title": "David with the Head of Goliath",
+    "artist": "Caravaggio",
+    "method": "Oil Painting",
+    "date": "1610",
+    "file": "8.jpg"
+  }
+]

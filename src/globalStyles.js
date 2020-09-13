@@ -11,6 +11,8 @@ const GlobalStyles = createGlobalStyle`
     background: black;
     color: white;
     mix-blend-mode: difference;
+    font-family: 'Cinzel', serif;
+    overflow: hidden;
   }
 `;
 
