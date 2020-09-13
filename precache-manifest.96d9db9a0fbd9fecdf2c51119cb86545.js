@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01ce1ff4fc1794fd4f5ea1e1ebeb7e2e",
+    "revision": "a6fe9da4e9e55d7caa9967576b5e3af7",
     "url": "/artzy/index.html"
   },
   {
-    "revision": "f147054f6eae3684793d",
-    "url": "/artzy/static/js/2.5a946358.chunk.js"
+    "revision": "cc139a2f141329be4172",
+    "url": "/artzy/static/js/2.280a05b6.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/artzy/static/js/2.5a946358.chunk.js.LICENSE.txt"
+    "url": "/artzy/static/js/2.280a05b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fde3d746a08cf891c234",
-    "url": "/artzy/static/js/main.bc668dc7.chunk.js"
+    "revision": "6a84296992ee22c942b3",
+    "url": "/artzy/static/js/main.a7731647.chunk.js"
   },
   {
-    "revision": "d1f67bbca3925fcadee7",
-    "url": "/artzy/static/js/runtime-main.eae3ae09.js"
+    "revision": "6332fb8e083d0b231d17",
+    "url": "/artzy/static/js/runtime-main.b1c0ef57.js"
   },
   {
     "revision": "9a6863ba5b562ead3c97fbe111ca50f4",
