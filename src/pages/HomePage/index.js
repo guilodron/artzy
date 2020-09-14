@@ -75,7 +75,7 @@ const HomePage = () => {
             }}
 
             transition={{ ease: 'linear', duration: 0.4 }}
-            src={require(`../../asset/${images[currentPage.left].file}`)}
+            src={process.env.PUBLIC_URL + `/asset/${images[currentPage.left].file}`}
           >
           </motion.img>
           <ArtInfo
@@ -127,8 +127,8 @@ const HomePage = () => {
           transition={{duration: .4, delay: .1, ease:'linear'}}
           >
           <motion.img
+            src={process.env.PUBLIC_URL + `/asset/${images[currentPage.right].file}`}
             transition={{ ease: 'linear', duration: 0.4 }}
-            src={require(`../../asset/${images[currentPage.right].file}`)}
             animate={animateRight}
             initial='unHover'
             variants={{
